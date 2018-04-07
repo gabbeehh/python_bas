@@ -1,2 +1,3 @@
 # python_bas
-Basico
+Gabriel Cruz
+ICO: 2° semestre
