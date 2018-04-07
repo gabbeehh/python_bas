@@ -1,0 +1,3 @@
+double es para numeros de muchos digitos
+exponente es "**"
+como buena practica de programacion en python asignar el nombre de variables que indique de forma clara lo que es.
